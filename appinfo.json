@@ -1,0 +1,26 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Haybale100",
+    "longName": "RWBY Database",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/Logo.png",
+                "menuIcon": true,
+                "name": "MENU_ICON",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "RWBY",
+    "uuid": "2718d6c1-e892-4236-b94a-e7409168c882",
+    "versionCode": 1,
+    "versionLabel": "1.210",
+    "watchapp": {
+        "watchface": false
+    }
+}
